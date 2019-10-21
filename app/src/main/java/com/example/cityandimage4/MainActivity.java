@@ -36,6 +36,7 @@ buildRecyclerView();
     }
 
     public void buildRecyclerView() {
+        //
 
         mRecycleView = findViewById(R.id.recyclerView);
         mRecycleView.setHasFixedSize(true);
